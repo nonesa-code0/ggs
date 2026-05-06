@@ -82,13 +82,13 @@ nav a:hover {
 }
 
 .profile {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
   border: 3px solid #38bdf8;
   box-shadow: 0 0 30px #38bdf8;
-  object-fit: cover;
-  transition: 0.4s;
 }
 
 .profile:hover {
