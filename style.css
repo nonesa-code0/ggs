@@ -83,12 +83,12 @@ nav a:hover {
 
 .profile {
   width: 180px;
-  height: 180px;
-  border-radius: 50%;
+  height: 220px;
+  border-radius: 15px;
   object-fit: cover;
-  object-position: center top;
+  object-position: center 20%;
   border: 3px solid #38bdf8;
-  box-shadow: 0 0 30px #38bdf8;
+  box-shadow: 0 0 25px #38bdf8;
 }
 
 .profile:hover {
